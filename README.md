@@ -1,0 +1,1 @@
+This project conatin upto 3 services query, comment,post. Here few problenm with client folder which needs to be resolved.
